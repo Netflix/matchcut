@@ -1,0 +1,101 @@
+IMDB ID,title,genres,country,split
+tt0050706,Mon Oncle (1958),Comedy,France,train
+tt0059592,Pierrot le Fou (1965),"Crime, Drama, Romance",France,train
+tt0061722,The Graduate (1967),"Comedy, Drama, Romance",USA,train
+tt0061781,The Firemen's Ball (1967),"Comedy, Drama",Czechoslovakia,validation
+tt0066921,A Clockwork Orange (1971),"Crime, Drama, Sci-Fi",UK,train
+tt0070245,Hiroshima Death Match (1973),"Action, Crime, Drama, History",Japan,train
+tt0070246,Battles Without Honor and Humanity (1973),"Crime, Drama",Japan,train
+tt0071315,Chinatown (1974),"Drama, Mystery, Thriller",USA,train
+tt0079182,Vengeance Is Mine (1979),"Crime, Drama",Japan,train
+tt0080610,The Last Metro (1980),"Drama, Romance, War",France,train
+tt0081505,The Shining (1980),"Drama, Horror",UK,test
+tt0090257,My Sweet Little Village (1985),Comedy,Czechoslovakia,test
+tt0092099,Top Gun (1986),"Action, Drama",USA,train
+tt0092603,Babette's Feast (1987),Drama,Denmark,test
+tt0095250,The Big Blue (1988),"Adventure, Drama, Sport",France,train
+tt0095765,Cinema Paradiso (1988),Drama,Italy,train
+tt0099685,Goodfellas (1990),"Biography, Crime, Drama",USA,validation
+tt0101700,Delicatessen (1991),"Comedy, Crime",France,test
+tt0106332,Farewell My Concubine (1993),"Drama, Music, Romance",China,validation
+tt0108289,Flirting Scholar (1993),"Comedy, Romance",Hong Kong,train
+tt0108656,Crime Story (1993),"Action, Crime, Drama",Hong Kong,test
+tt0110201,Hail the Judge (1994),Comedy,Hong Kong,train
+tt0111797,Eat Drink Man Woman (1994),"Comedy, Drama, Romance",Taiwan,train
+tt0112769,La Cérémonie (1995),"Crime, Drama, Mystery, Thriller",France,validation
+tt0114369,Se7en (1995),"Crime, Drama, Mystery, Thriller",USA,train
+tt0118749,Boogie Nights (1997),Drama,USA,train
+tt0118799,Life Is Beautiful (1997),"Comedy, Drama, Romance, War",Italy,test
+tt0118845,Happy Together (1997),"Drama, Romance",Hong Kong,test
+tt0133093,The Matrix (1999),"Action, Sci-Fi",USA,test
+tt0175880,Magnolia (1999),Drama,USA,train
+tt0178868,Ringu (1998),"Horror, Mystery",Japan,train
+tt0190332,"Crouching Tiger, Hidden Dragon (2000)","Action, Adventure, Fantasy, Romance",Taiwan,validation
+tt0208092,Snatch (2000),"Comedy, Crime",UK,test
+tt0250494,Legally Blonde (2001),"Comedy, Romance",USA,test
+tt0266697,Kill Bill: Vol. 1 (2003),"Action, Crime, Thriller",USA,test
+tt0308476,The Cuckoo (2002),"Comedy, Drama, War",Russia,train
+tt0338013,Eternal Sunshine of the Spotless Mind (2004),"Drama, Romance, Sci-Fi",USA,validation
+tt0373074,Kung Fu Hustle (2004),"Action, Comedy, Fantasy",Hong Kong,train
+tt0378194,Kill Bill: Vol. 2 (2004),"Action, Crime, Thriller",USA,train
+tt0385004,House of Flying Daggers (2004),"Action, Adventure, Drama, Romance",China,train
+tt0387898,Caché (2005),"Drama, Mystery, Thriller",France,train
+tt0407887,The Departed (2006),"Crime, Drama, Thriller",USA,validation
+tt0427954,The Protector (2005),"Action, Crime, Drama, Thriller",Thailand,validation
+tt0443706,Zodiac (2007),"Crime, Drama, Mystery, Thriller",USA,train
+tt0457430,Pan's Labyrinth (2006),"Drama, Fantasy, War",Mexico,test
+tt0468565,Tsotsi (2005),"Crime, Drama",UK,train
+tt0469494,There Will Be Blood (2007),Drama,USA,train
+tt0477348,No Country for Old Men (2007),"Crime, Drama, Thriller",USA,train
+tt0765128,Oceans (2009),"Documentary, Drama",France,train
+tt0780504,Drive (2011),"Crime, Drama",USA,train
+tt0810819,The Danish Girl (2015),"Biography, Drama, Romance",UK,validation
+tt0844347,Midnight Sun (2006),"Drama, Music, Romance",Japan,train
+tt0887883,Burn After Reading (2008),"Comedy, Crime, Drama, Thriller",USA,train
+tt0913425,Broken Embraces (2009),"Drama, Romance, Thriller",Spain,train
+tt0940709,CJ7 (2008),"Comedy, Drama, Family, Sci-Fi",Hong Kong,test
+tt0947798,Black Swan (2010),"Drama, Thriller",USA,train
+tt0993846,The Wolf of Wall Street (2013),"Biography, Crime, Drama",USA,test
+tt1063669,The Wave (2008),"Drama, Thriller",Germany,validation
+tt1220719,Ip Man (2008),"Action, Biography, Drama, Sport",Hong Kong,train
+tt1232829,21 Jump Street (2012),"Action, Comedy, Crime",USA,train
+tt1255953,Incendies (2010),"Drama, Mystery, War",Canada,train
+tt1276104,Looper (2012),"Action, Crime, Drama, Sci-Fi, Thriller",USA,train
+tt1386932,Ip Man 2 (2010),"Action, Drama, Sport",Hong Kong,train
+tt1462900,The Grandmaster (2013),"Action, Biography, Drama, Romance, War",Hong Kong,train
+tt1504320,The King's Speech (2010),"Biography, Drama, History",UK,train
+tt1533117,Let the Bullets Fly (2010),"Action, Comedy, Western",China,train
+tt1560747,The Master (2012),Drama,USA,train
+tt1568346,The Girl with the Dragon Tattoo (2011),"Crime, Drama, Mystery, Thriller",USA,train
+tt1602620,Amour (2012),"Drama, Romance",Austria,test
+tt1611840,Once a Gangster (2010),"Action, Comedy, Crime",Hong Kong,validation
+tt1649443,[REC] 4: Apocalypse (2014),"Horror, Thriller",Spain,train
+tt1748122,Moonrise Kingdom (2012),"Adventure, Comedy, Drama, Romance",USA,train
+tt1800241,American Hustle (2013),"Crime, Drama",USA,train
+tt1832382,A Separation (2011),"Drama, Thriller",Iran,train
+tt1853728,Django Unchained (2012),"Drama, Western",USA,validation
+tt1974419,The Neon Demon (2016),"Horror, Thriller",Denmark,validation
+tt2059255,No (2012),Drama,Chile,train
+tt2070649,Silenced (2011),Drama,South Korea,train
+tt2084970,The Imitation Game (2014),"Biography, Drama, Thriller, War",USA,train
+tt2115388,Love is Not Blind (2011),"Comedy, Drama, Romance",China,train
+tt2258281,Beyond the Hills (2012),Drama,Romania,test
+tt2267998,Gone Girl (2014),"Drama, Mystery, Thriller",USA,validation
+tt2488496,Star Wars: Episode VII - The Force Awakens (2015),"Action, Adventure, Fantasy, Sci-Fi",USA,train
+tt3421514,Supercondriaque (2014),Comedy,France,validation
+tt3501416,Assassination (2015),"Action, Drama",South Korea,train
+tt3508840,The Assassin (2015),"Action, Drama, History",Taiwan,test
+tt3672840,Dragon Blade (2015),"Action, Adventure, Drama, Fantasy, History",China,test
+tt3700392,Heidi (2015),"Adventure, Drama, Family",Germany,train
+tt3808342,Son of Saul (2015),"Drama, War",Hungary,train
+tt4176826,Look Who's Back (2015),"Comedy, Drama, Fantasy",Germany,validation
+tt4273292,Under the Shadow (2016),"Drama, Horror, Thriller, War",UK,train
+tt4967094,Our Times (2015),"Comedy, Romance",Taiwan,validation
+tt5576318,Who Killed Cock Robin? (2017),"Crime, Mystery, Thriller",Taiwan,validation
+tt5580036,"I, Tonya (2017)","Biography, Comedy, Drama, Sport",UK,test
+tt5593416,Peach Girl (2017),Romance,Japan,train
+tt5827496,At Cafe 6 (2016),"Comedy, Romance",Taiwan,test
+tt5866930,The Adventurers (2017),"Action, Adventure, Crime, Drama",China,validation
+tt6157626,Legend of the Demon Cat (2017),"Drama, Fantasy, Horror, Mystery, Romance",China,validation
+tt6298600,The Miracles of the Namiya General Store (2017),Drama,Japan,train
+tt6788942,Bad Genius (2017),"Comedy, Crime, Drama, Thriller",Thailand,train
