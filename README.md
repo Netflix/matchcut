@@ -1,8 +1,5 @@
 # Match cutting
 
-- [Manuscript](manuscript.pdf)
-- [Supplementary materials](supplementary-materials.pdf)
-
 ### Getting started
 1. Create and activate the conda environment.
 ```shell
