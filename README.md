@@ -1,5 +1,10 @@
 # Match cutting
 
+TODO:
+- arxiv link
+- blog post
+- video
+
 ### Getting started
 1. Create and activate the conda environment.
 ```shell
