@@ -1,6 +1,6 @@
 # Match cutting
 
-[preprint](https://arxiv.org/pdf/2210.05766.pdf)
+[preprint](https://arxiv.org/abs/2210.05766)
 
 ### Getting started
 1. Create and activate the conda environment.
