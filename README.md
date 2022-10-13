@@ -1,9 +1,6 @@
 # Match cutting
 
-TODO:
-- arxiv link
-- blog post
-- video
+[preprint](https://arxiv.org/pdf/2210.05766.pdf)
 
 ### Getting started
 1. Create and activate the conda environment.
