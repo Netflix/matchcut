@@ -1,6 +1,9 @@
 # Match cutting
 
-[preprint](https://arxiv.org/abs/2210.05766)
+![Match cutting](https://miro.medium.com/max/1400/0*yz3VSguC-GANe7gy)
+
+- Want a high level overview? Read [this blog post](https://netflixtechblog.com/match-cutting-at-netflix-finding-cuts-with-smooth-visual-transitions-31c3fc14ae59?gi=8873f373fd1d)
+- Want all the details? Read [the preprint](https://arxiv.org/abs/2210.05766)
 
 ### Getting started
 1. Create and activate the conda environment.
