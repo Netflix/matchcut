@@ -86,3 +86,11 @@ See download instructions above.
 
 ### How do I extend this?
 You can extract your own embeddings, store in the format described above, and repeat experiments 1 and 2 by changing the config files in `matchcut/config`.
+
+### Citation
+> @article{chen2022match,
+  title={Match Cutting: Finding Cuts with Smooth Visual Transitions},
+  author={Chen, Boris and Ziai, Amir and Tucker, Rebecca and Xie, Yuchen},
+  journal={arXiv preprint arXiv:2210.05766},
+  year={2022}
+}
